@@ -1,0 +1,24 @@
+# Web Framework
+streamlit
+numpy
+pandas
+
+# LLM & Orchestration
+langchain
+langchain-groq
+langchain-core
+langchain-community
+langchain-huggingface
+
+# Document Processing
+pypdf
+unstructured
+openpyxl
+
+# Vector Database & Embeddings
+faiss-cpu
+sentence-transformers
+
+# Utilities
+python-dotenv
+requests
