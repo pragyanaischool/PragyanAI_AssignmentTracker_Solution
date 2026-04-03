@@ -7,7 +7,7 @@ from rag_engine import AssignmentRAG
 
 # --- Configuration ---
 st.set_page_config(page_title="PragyanAI Assignment Tracker", layout="wide")
-st.image()
+st.image('PragyanAI_Transperent.png')
 # --- Constants & DB Initialization ---
 USER_DB = "user_db.xlsx"
 MASTER_DB = "PragyanAI - Assignments - Track.xlsx"
