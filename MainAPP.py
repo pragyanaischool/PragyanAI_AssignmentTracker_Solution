@@ -10,7 +10,7 @@ st.set_page_config(page_title="PragyanAI Assignment Tracker", layout="wide")
 st.image()
 # --- Constants & DB Initialization ---
 USER_DB = "user_db.xlsx"
-MASTER_DB = "master_db.xlsx"
+MASTER_DB = "PragyanAI - Assignments - Track.xlsx"
 STUDENT_DB = "student_db.xlsx"
 
 def init_dbs():
