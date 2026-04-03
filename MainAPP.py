@@ -12,7 +12,7 @@ st.markdown("""
     .stProgress > div > div > div > div { background-image: linear-gradient(to right, #007BFF , #00CCFF); }
     </style>
     """, unsafe_allow_html=True)
-st.image()
+st.image('PragyanAI_Transperent.png')
 # --- Session State Initialization ---
 if 'rag' not in st.session_state: st.session_state.rag = None
 if 'questions' not in st.session_state: st.session_state.questions = []
